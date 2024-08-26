@@ -33,10 +33,8 @@ This application provides a graphical interface for managing bicycle bookings at
 1. **Run the Application:**
 
     ```bash
-    python your_script_name.py
+    python Hotel_Bicycle_Manager.py
     ```
-
-    Replace `your_script_name.py` with the name of the script file containing the provided code.
 
 2. **Main Window:**
    - The main window displays the bicycle management interface with sections for different types of bicycles.
