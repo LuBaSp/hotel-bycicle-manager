@@ -73,4 +73,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions or support, please contact [Your Name or Email].
+For questions or support, please contact luca.bachetti.spurio@gmail.com
